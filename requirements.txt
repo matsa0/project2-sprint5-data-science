@@ -6,3 +6,4 @@ seaborn
 jupyterlab
 scipy
 category_encoders
+xgboost
