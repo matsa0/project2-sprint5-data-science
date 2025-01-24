@@ -7,3 +7,5 @@ jupyterlab
 scipy
 category_encoders
 xgboost
+lightgbm
+optuna
